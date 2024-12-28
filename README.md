@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan. I am a fresh graduate from Bahcesehir University majoring in Software Engineering</h1>
 <h3 align="center">Java enthusiast from Turkey</h3>
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Microservices, Docker and Kubernetes**
 
 - 📫 How to reach me **latiffurkan.demir@gmail.com**
 
