@@ -6,10 +6,15 @@
 - 💬 Ask me about **backend engineering**, **microservices**, **database design**, and **RESTful APIs**.
 
 ---
+## 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=latiffurkandemir&color=brightgreen)
+
+---
 
 ## 📱 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/latifdemir/](https://www.linkedin.com/in/latiffurkan-demir)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/latifdemir/](https://www.linkedin.com/in/latifdemir/)  
 [![Email](https://img.shields.io/badge/Email-latif@example.com-red?style=flat&logo=gmail)](mailto:latiffurkan.demir@gmail.com)
 
 ---
@@ -33,9 +38,3 @@
 ## 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=latiffurkandemir&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=latiffurkandemir&theme=radical)
