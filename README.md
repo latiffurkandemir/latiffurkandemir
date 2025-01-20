@@ -6,11 +6,6 @@
 - 💬 Ask me about **backend engineering**, **microservices**, **database design**, and **RESTful APIs**.
 
 ---
-## 📊 Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=latiffurkandemir&color=brightgreen)
-
----
 
 ## 📱 Socials:
 
@@ -31,7 +26,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+---
+
+## 📊 Profile Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=latiffurkandemir&color=brightgreen)
 
 ---
 
