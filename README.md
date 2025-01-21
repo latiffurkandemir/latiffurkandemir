@@ -10,7 +10,6 @@
 ## 📱 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/latiffurkan-demir/)  
-[![Email](https://img.shields.io/badge/Email-latiffurkan.demir@gmail.com-red?style=flat&logo=gmail)](mailto:latiffurkan.demir@gmail.com)
 
 ---
 
